@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+venv/
+env/
+ollama/
+
+# RAG 索引缓存（自动重建）
+knowledge_base/.index_*
